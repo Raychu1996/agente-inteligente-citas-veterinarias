@@ -11,8 +11,6 @@ Jhon Alexander Niño Gonzalez
 # Agente Inteligente para la Gestión de Citas Veterinarias
 
 
-Proyecto académico desarrollado para la asignatura de Inteligencia Artificial I de la Universidad Militar Nueva Granada.
-
 El proyecto aborda el diseño y la implementación de un agente basado en conocimiento para apoyar la gestión de citas veterinarias mediante reglas lógicas e inferencias.
 
 ## Objetivo
